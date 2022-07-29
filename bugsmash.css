@@ -1,0 +1,24 @@
+body {
+    background-color: navajowhite;
+    width: auto;
+    height: auto;
+    text-align:center;
+}
+
+gameArea{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+h1{
+    color: gray;
+    
+}
+button{
+    padding:10px;
+    margin:20px;
+}
+small{
+    margin-bottom:10px;
+}
+
